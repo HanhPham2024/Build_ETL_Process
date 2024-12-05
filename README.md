@@ -5,7 +5,7 @@ ETL is a process of Extracting, Trasformation and Loading to the database. In re
 So, in this project, we will explore how to do it! 
 
 At first, we must to import the nessesary libraries:
-```pandas
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
