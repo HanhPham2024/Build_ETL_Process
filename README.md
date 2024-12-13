@@ -8,8 +8,7 @@ At first, we must to import the nessesary libraries:
 ```python
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+
 
 "Next, we will proceed with the ETL process as outlined below."
 
